@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Joshu1231/Leetcode/tree/master/0051-n-queens) |
+| [0162-find-peak-element](https://github.com/Joshu1231/Leetcode/tree/master/0162-find-peak-element) |
 ## Backtracking
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Joshu1231/Leetcode/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/Joshu1231/Leetcode/tree/master/0162-find-peak-element) |
 ## Linked List
 |  |
 | ------- |
