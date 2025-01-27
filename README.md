@@ -21,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Joshu1231/Leetcode/tree/master/0051-n-queens) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Joshu1231/Leetcode/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Joshu1231/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
